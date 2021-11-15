@@ -1,1 +1,3 @@
-# js-srv
+# app.js
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/andreif/app.js)
