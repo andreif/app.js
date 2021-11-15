@@ -1,0 +1,7 @@
+{
+    "name": "JS server",
+    "repository": "https://github.com/andreif/js-srv",
+    "buildpacks": [{"url": "https://github.com/andreif/heroku-buildback-js"}],
+    "logo": "http://i.imgur.com/12s2VoU.png",
+    "keywords": []
+  }
